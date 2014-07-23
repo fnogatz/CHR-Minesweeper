@@ -1,6 +1,6 @@
 # CHR-Minesweeper
 
-Simple Minesweeper application written in Prolog and Constraint Handling Rules (CHR). It was created as an exercise for the "Programming Paradigms" lecture at the [University of Ulm](http://uni-ulm.de). You will find the tasks below.
+Simple Minesweeper application written in Prolog and Constraint Handling Rules (CHR). It was created as an exercise for the "Programming Paradigms" lecture at the [University of Ulm](http://uni-ulm.de). You will find the [tasks below](https://github.com/fnogatz/CHR-Minesweeper#exercises-english-and-german).
 
 ## Usage
 
@@ -60,7 +60,7 @@ You can also directly start a new game by using the following command:
 
 ## Exercises (English and German)
 
-These are the original tasks. There is an english and german version below.
+These are the original tasks. There is an [english](https://github.com/fnogatz/CHR-Minesweeper#english) and [german](https://github.com/fnogatz/CHR-Minesweeper#german) version below.
 
 ### English
 
