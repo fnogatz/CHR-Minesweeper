@@ -4,7 +4,7 @@ Simple Minesweeper application written in Prolog and Constraint Handling Rules (
 
 ## Usage
 
-The complete program can be programmatically used by specifying some `minesweeper/2`, `mine/2` (or `mines/1`) and `check/2` constraints. Have a look at the Exercises section for the meanings of these constraints.
+The complete program can be programmatically used by specifying some `minesweeper/2`, `mine/2` (or `mines/1`) and `check/2` constraints. Have a look at the [Exercises section](https://github.com/fnogatz/CHR-Minesweeper#exercises-english-and-german) for the meanings of these constraints.
 
 To start a Minesweeper game with this Prolog/CHR implementation you can simply use the `main` predicate. First load the source code, for example with [SWI-Prolog](http://www.swi-prolog.org/):
 
